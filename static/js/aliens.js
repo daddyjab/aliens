@@ -11,3 +11,5 @@ Homework Assignment:
 
 // Data for UFO sitings
 var ufoTableData = ufo_sitings_data;
+
+// Display in the HTML table w/ id="ufo-table"
